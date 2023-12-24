@@ -2,4 +2,4 @@
 
 ## Simple React + Vite app
 
-<img>public/fancy-counter.png</img>
+![screenshot of app](public/fancy-counter.png)
